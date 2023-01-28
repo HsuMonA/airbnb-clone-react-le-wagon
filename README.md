@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Airbnb clone
+
+Airbnb clone done with React following the tutorial from Le Wagon.
+
+Here is the [link](https://www.youtube.com/watch?v=_ZTT9kw3PIE&list=PLkbmdtbypn7RjeQ7OOEkRAhcaaqX5oD69&index=24) for the tutorial.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
